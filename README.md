@@ -1,5 +1,5 @@
 # AI-Stock-Predictor
-AI-Based Stock Market Prediction
+Stock Market Prediction
 
 This project aims to predict stock prices using historical stock data sourced from Yahoo Finance. Leveraging machine learning techniques, the goal is to explore patterns in stock trends and build predictive models to forecast future prices with a focus on accuracy and evaluation metrics.
 
