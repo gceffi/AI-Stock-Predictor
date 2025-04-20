@@ -23,3 +23,10 @@ The goal is to explore different architectures, evaluate their performance, and 
 - TensorFlow/Keras
 - Scikit-learn
 - Yahoo Finance API (`yfinance`)
+
+---
+
+## Authors
+- Godswill Effi
+- Andy Nguyen
+- Tsz Kan Ho
